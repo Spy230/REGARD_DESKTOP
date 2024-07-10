@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addComponents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addSotrudniki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addVenors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoAutentification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoComponents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="infoVendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sotrudniki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
