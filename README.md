@@ -78,6 +78,12 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10c8235b-cb2e-47e6-b1fd-7f78fd719445" alt="Структурная схема базы данных" />
 </p>
+## Связь с автором
+
+Если у вас есть вопросы или предложения по поводу программы, вы можете связаться со мной по следующим каналам:
+
+- **Email**: [shesterikovon@gmail.com](mailto:shesterikovon@gmail.com)
+- **Telegram**: [@SpySpyq](https://t.me/@SpySpyq)
 
 ## License
 
