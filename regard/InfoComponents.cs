@@ -14,7 +14,7 @@ namespace regard
         private bool mouseDown;
         private Point lastLocation;
         private order _orderForm;
-        private const string ConnectionString = "Data Source=DESKTOP-BBVLBHA;Initial Catalog=regard;Integrated Security=True";
+        private const string ConnectionString = "Data Source=DESKTOP-BBVLBHA;Initial Catalog=regard;Integrated Security=True"; 
         private int id_tovar;
         private string id_statusa;
         public InfoComponents(int id_tovar, string name, string model, decimal price, string id_statusa)
