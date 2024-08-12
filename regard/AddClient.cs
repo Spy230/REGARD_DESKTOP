@@ -15,7 +15,7 @@ namespace regard
     {
         private bool mouseDown;
         private Point lastLocation;
-        private const string ConnectionString = "Data Source=DESKTOP-BBVLBHA;Initial Catalog=regard;Integrated Security=True";
+        private const string ConnectionString = "Data Source=DESKTOP-BBVLBHA;Initial Catalog=regard;Integrated Security=True"; 
         private string selectedStatus;
         DataBase database = new DataBase();
         private Image selectedImage;
