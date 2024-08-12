@@ -38,14 +38,19 @@
  ## пример роботоспособности программы
 
  1. форма авторизации.
+![image](https://github.com/user-attachments/assets/74eae220-6f7e-4a2d-92d4-380c3c03f7ce)
 
  2. форма регистрации.
+![image](https://github.com/user-attachments/assets/f3502545-72e2-4115-848c-04db9da994e7)
 
  3. форма добавление заказа. 
+![image](https://github.com/user-attachments/assets/42214ec9-162d-49d0-8a1d-b4fffc3e928c)
 
  4. форма печати чека. 
+![image](https://github.com/user-attachments/assets/80bd384d-ed70-4f18-903f-bd71396f7b63)
 
- 5. созданный чек. 
+ 5. созданный чек.
+  ![image](https://github.com/user-attachments/assets/d6489daa-b95d-4299-98fe-0c0cc49a1441)
 
  ### Структура базы данных 
 
@@ -62,4 +67,7 @@ sposob_vidachi - способ выдачи
 type_client - тип клиента
 Custumer_Status - статус клиента 
 dolgnost - должность
+###Структурная Схема базы данных
+![image](https://github.com/user-attachments/assets/10c8235b-cb2e-47e6-b1fd-7f78fd719445)
+
  
