@@ -65,18 +65,17 @@
  ### Структура базы данных 
 
 приложение использует СУБД sql management studio , в которой находятся следующие таблицы:
-Order - заказы
-
-Client - клиенты 
-Tovar - товары  
-sotrudniki - сотрудники.
+1. Order - заказы
+2.Client - клиенты 
+3.Tovar - товары  
+4.sotrudniki - сотрудники.
 также созданы следующие справочные таблицы:
-status_tovara - статус товара
-payment - метод оплаты  
-sposob_vidachi - способ выдачи
-type_client - тип клиента
-Custumer_Status - статус клиента 
-dolgnost - должность
+5.status_tovara - статус товара
+6.payment - метод оплаты  
+7.sposob_vidachi - способ выдачи
+8.type_client - тип клиента
+9.Custumer_Status - статус клиента 
+10.dolgnost - должность
 ### Структурная Схема базы данных
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10c8235b-cb2e-47e6-b1fd-7f78fd719445" alt="Структурная схема базы данных" />
