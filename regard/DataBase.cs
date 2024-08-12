@@ -7,7 +7,7 @@ namespace regard
 {
     class DataBase
     {
-        SqlConnection sqlConnection = new SqlConnection(@"Data Source=DESKTOP-BBVLBHA; Initial Catalog=regard; Integrated Security=True");
+        SqlConnection sqlConnection = new SqlConnection(@"Data Source=DESKTOP-BBVLBHA; Initial Catalog=regard; Integrated Security=True"); 
 
         public void openConnection()
         {
