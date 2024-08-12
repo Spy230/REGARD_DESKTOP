@@ -13,7 +13,7 @@ namespace regard
     {
         private readonly checkUser _user;
         private DataTable dataTable;
-        private const string ConnectionString = "Data Source=DESKTOP-BBVLBHA;Initial Catalog=regard;Integrated Security=True";
+        private const string ConnectionString = "Data Source=DESKTOP-BBVLBHA;Initial Catalog=regard;Integrated Security=True"; 
       
         public Client(checkUser user)
         {
