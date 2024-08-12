@@ -67,7 +67,7 @@ sposob_vidachi - способ выдачи
 type_client - тип клиента
 Custumer_Status - статус клиента 
 dolgnost - должность
-###Структурная Схема базы данных
+### Структурная Схема базы данных
 ![image](https://github.com/user-attachments/assets/10c8235b-cb2e-47e6-b1fd-7f78fd719445)
 
  
