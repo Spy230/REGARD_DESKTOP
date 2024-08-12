@@ -4,7 +4,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
 using System.IO;
-using GSF.Net.Smtp;
+using GSF.Net.Smtp; 
 using Word = Microsoft.Office.Interop.Word;
 using DocumentFormat.OpenXml.Wordprocessing;
 using System.Drawing;
