@@ -79,5 +79,6 @@ Custumer_Status - статус клиента
 dolgnost - должность
 ### Структурная Схема базы данных
 <p align="center">
-![image](https://github.com/user-attachments/assets/10c8235b-cb2e-47e6-b1fd-7f78fd719445)
+  <img src="https://github.com/user-attachments/assets/10c8235b-cb2e-47e6-b1fd-7f78fd719445" alt="Структурная схема базы данных" />
 </p>
+
