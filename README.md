@@ -55,7 +55,7 @@ Client - клиенты
 Tovar - товары  
 sotrudniki - сотрудники.
 также созданы следующие справочные таблицы:
-status_tovara - статус товара .
+status_tovara - статус товара
 payment - метод оплаты  
 sposob_vidachi - способ выдачи
 type_client - тип клиента
