@@ -79,3 +79,6 @@
   <img src="https://github.com/user-attachments/assets/10c8235b-cb2e-47e6-b1fd-7f78fd719445" alt="Структурная схема базы данных" />
 </p>
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
