@@ -19,7 +19,7 @@ namespace regard
         {
             this.Paint += YourForm_Paint; // Подписать на событие Paint формы
             this.MouseDown += YourForm_MouseDown; // Подписать на событие нажатия кнопки мыши
-            this.MouseMove += YourForm_MouseMove;
+            this.MouseMove += YourForm_MouseMove; 
             this.MouseUp += YourForm_MouseUp;
             InitializeComponent();
             FillComboBox();
